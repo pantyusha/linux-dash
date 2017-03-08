@@ -1,47 +1,17 @@
 <br/>
 <h1 align="center">
-  linux-dash
+  pereval-dash
 </h1>
 
 <p align="center">
-  A simple, low-overhead web dashboard for Linux
+  Dashboard and main page for the Pereval server
+ <br>
+  Forked from <a href="https://github.com/afaqurk/linux-dash/">afaqurk/linux-dash</a>
 </p>
 
-<p align="center">
-<small>Check out what's coming in <a href="https://linux-dash.github.io/docs/#getting-started">Linux Dash v2.0</a>: in Fall 2016.</small>
-</p>
+Original README <a href="https://github.com/afaqurk/linux-dash/blob/master/README.md">here</a>.
 
-<p align="center">
-  <strong>
-    <a href="http://linuxdash.afaqtariq.com"><i>Demo</i></a> &nbsp;|&nbsp;
-    <a href="#features"><i>Features</i></a> &nbsp;|&nbsp;
-    <a href="#installation">
-      <i>Installation</i></a> &nbsp;|&nbsp;
-    <a href="#support"><i>Support</i></a>
-  </strong>
-</p>
-
-<p align="center">
-  <a href="https://gitter.im/afaqurk/linux-dash">
-    <img 
-      src="https://badges.gitter.im/gitterHQ/gitter.png" 
-      alt="Linux Dash Gitter chat">
-  </a>
-</p>
-
-<br/>
-<p align="center">
-  <a href="http://linuxdash.afaqtariq.com">
-    <img 
-      width="80%"
-      alt="Linux Dash screenshot" 
-      src="http://i.imgur.com/tehGyrQ.gif">
-  </a>
-</p>
-
-<br/>
-
-## Features
+## Description
 * A beautiful, simple web-based dashboard for monitoring a linux server
 * Only ~1MB on disk! *(.git removed)*
 * Live graphs, refresh-able widgets, and a growing # of supported modules
@@ -49,22 +19,16 @@
 
 ## Installation
 
-#### Step 1: Download Linux Dash
+#### Download Linux Dash
 
 Clone the git repo
 ```sh
 git clone https://github.com/afaqurk/linux-dash.git
 ```
 
-Or download it **[here](https://github.com/afaqurk/linux-dash/archive/master.zip)**.
+Or download it **[here](https://github.com/pantyusha/pereval-dash/archive/master.zip)**.
 
-#### Step 2: Secure Linux Dash
-
-Linux Dash does not provide any security or authentication features.
-
-**It is strongly recommended** that all Linux Dash installations be protected via a security measure of your choice.
-
-#### Step 3: Start Linux Dash
+#### Start Linux Dash
 <h6 align="center">
 Linux Dash can be run in: <u>Node.js</u>, PHP, Go, or Python. 
 <br/>
